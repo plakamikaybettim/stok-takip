@@ -1,0 +1,694 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://ais-dev-zwueoehtgpddz2gmvoo3cs-435398856185.europe-west2.run.app/standalone.html
+Subject: StokTakip Pro - Standalone
+Date: Sun, 8 Mar 2026 07:08:55 +0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--yLmAZkaDbLN8vDD7T1VbxHqCBgnHOOm7I2bdRJhlG6----"
+
+
+------MultipartBoundary--yLmAZkaDbLN8vDD7T1VbxHqCBgnHOOm7I2bdRJhlG6----
+Content-Type: text/html
+Content-ID: <frame-8E9FD4E0A0E5C63DFC1632728BBC4F7A@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://ais-dev-zwueoehtgpddz2gmvoo3cs-435398856185.europe-west2.run.app/standalone.html
+
+<!DOCTYPE html><html lang=3D"tr"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-f5d1d67d-75ce-4cae-9c53-0d3fd6938c70@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-99033c7e-e25f-4fc4=
+-a521-79ec28034153@mhtml.blink" />
+ =20
+
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>StokTakip Pro - Standalone</title>
+    <!-- Tailwind CSS CDN -->
+   =20
+    <!-- Google Fonts -->
+    <link href=3D"https://fonts.googleapis.com/css2?family=3DInter:wght@400=
+;500;600;700&amp;display=3Dswap" rel=3D"stylesheet">
+    <!-- React & ReactDOM -->
+   =20
+   =20
+    <!-- Babel for JSX -->
+   =20
+    <!-- Lucide Icons -->
+   =20
+    <!-- Framer Motion -->
+   =20
+   =20
+</head>
+<body class=3D"bg-zinc-50 text-zinc-900 antialiased">
+    <div id=3D"root"><div class=3D"min-h-screen bg-zinc-50 flex"><aside cla=
+ss=3D"w-64 bg-white border-r border-zinc-200 p-6 flex flex-col gap-8 sticky=
+ top-0 h-screen"><div class=3D"flex items-center gap-3 px-2"><div class=3D"=
+w-10 h-10 bg-black rounded-xl flex items-center justify-center"><svg xmlns=
+=3D"http://www.w3.org/2000/svg" width=3D"24" height=3D"24" viewBox=3D"0 0 2=
+4 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linec=
+ap=3D"round" stroke-linejoin=3D"round" data-lucide=3D"package" aria-hidden=
+=3D"true" class=3D"lucide lucide-package text-white" style=3D"width: 24px; =
+height: 24px;"><path d=3D"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2=
+ 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"></=
+path><path d=3D"M12 22V12"></path><polyline points=3D"3.29 7 12 12 20.71 7"=
+></polyline><path d=3D"m7.5 4.27 9 5.15"></path></svg></div><h1 class=3D"fo=
+nt-bold text-xl tracking-tight">StokTakip<span class=3D"text-zinc-400">Pro<=
+/span></h1></div><nav class=3D"flex flex-col gap-1"><button class=3D"w-full=
+ flex items-center gap-3 px-4 py-3 rounded-xl transition-all duration-200 b=
+g-black text-white shadow-lg shadow-black/10"><svg xmlns=3D"http://www.w3.o=
+rg/2000/svg" width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none"=
+ stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" stroke=
+-linejoin=3D"round" data-lucide=3D"layout-dashboard" aria-hidden=3D"true" c=
+lass=3D"lucide lucide-layout-dashboard" style=3D"width: 20px; height: 20px;=
+"><rect width=3D"7" height=3D"9" x=3D"3" y=3D"3" rx=3D"1"></rect><rect widt=
+h=3D"7" height=3D"5" x=3D"14" y=3D"3" rx=3D"1"></rect><rect width=3D"7" hei=
+ght=3D"9" x=3D"14" y=3D"12" rx=3D"1"></rect><rect width=3D"7" height=3D"5" =
+x=3D"3" y=3D"16" rx=3D"1"></rect></svg><span class=3D"font-medium text-sm">=
+Dashboard</span><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"24" heig=
+ht=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" strok=
+e-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" data-lucid=
+e=3D"chevron-right" aria-hidden=3D"true" class=3D"lucide lucide-chevron-rig=
+ht ml-auto" style=3D"width: 16px; height: 16px;"><path d=3D"m9 18 6-6-6-6">=
+</path></svg></button><button class=3D"w-full flex items-center gap-3 px-4 =
+py-3 rounded-xl transition-all duration-200 text-zinc-500 hover:bg-zinc-100=
+ hover:text-zinc-900"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"24=
+" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor"=
+ stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" data=
+-lucide=3D"package" aria-hidden=3D"true" class=3D"lucide lucide-package" st=
+yle=3D"width: 20px; height: 20px;"><path d=3D"M11 21.73a2 2 0 0 0 2 0l7-4A2=
+ 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2=
+ 2 0 0 0 1 1.73z"></path><path d=3D"M12 22V12"></path><polyline points=3D"3=
+.29 7 12 12 20.71 7"></polyline><path d=3D"m7.5 4.27 9 5.15"></path></svg><=
+span class=3D"font-medium text-sm">=C3=9Cr=C3=BCnler</span></button><button=
+ class=3D"w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-al=
+l duration-200 text-zinc-500 hover:bg-zinc-100 hover:text-zinc-900"><svg xm=
+lns=3D"http://www.w3.org/2000/svg" width=3D"24" height=3D"24" viewBox=3D"0 =
+0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-li=
+necap=3D"round" stroke-linejoin=3D"round" data-lucide=3D"package-plus" aria=
+-hidden=3D"true" class=3D"lucide lucide-package-plus" style=3D"width: 20px;=
+ height: 20px;"><path d=3D"M12 22V12"></path><path d=3D"M16 17h6"></path><p=
+ath d=3D"M19 14v6"></path><path d=3D"M21 10.535V8a2 2 0 0 0-1-1.73l-7-4a2 2=
+ 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.729l7 4a2 2 0 0 0 2 .001l1.67=
+5-.955"></path><path d=3D"M3.29 7 12 12l8.71-5"></path><path d=3D"m7.5 4.27=
+ 8.997 5.148"></path></svg><span class=3D"font-medium text-sm">Stok Giri=C5=
+=9Fi</span></button><button class=3D"w-full flex items-center gap-3 px-4 py=
+-3 rounded-xl transition-all duration-200 text-zinc-500 hover:bg-zinc-100 h=
+over:text-zinc-900"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"24" =
+height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" s=
+troke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" data-l=
+ucide=3D"shopping-cart" aria-hidden=3D"true" class=3D"lucide lucide-shoppin=
+g-cart" style=3D"width: 20px; height: 20px;"><circle cx=3D"8" cy=3D"21" r=
+=3D"1"></circle><circle cx=3D"19" cy=3D"21" r=3D"1"></circle><path d=3D"M2.=
+05 2.05h2l2.66 12.42a2 2 0 0 0 2 1.58h9.78a2 2 0 0 0 1.95-1.57l1.65-7.43H5.=
+12"></path></svg><span class=3D"font-medium text-sm">Sat=C4=B1=C5=9Flar</sp=
+an></button><button class=3D"w-full flex items-center gap-3 px-4 py-3 round=
+ed-xl transition-all duration-200 text-zinc-500 hover:bg-zinc-100 hover:tex=
+t-zinc-900"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"24" height=
+=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-=
+width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" data-lucide=
+=3D"bar-chart-3" aria-hidden=3D"true" class=3D"lucide lucide-bar-chart-3" s=
+tyle=3D"width: 20px; height: 20px;"><path d=3D"M3 3v16a2 2 0 0 0 2 2h16"></=
+path><path d=3D"M18 17V9"></path><path d=3D"M13 17V5"></path><path d=3D"M8 =
+17v-3"></path></svg><span class=3D"font-medium text-sm">Raporlar</span></bu=
+tton></nav><div class=3D"mt-auto p-4 bg-zinc-50 rounded-2xl border border-z=
+inc-100"><div class=3D"flex items-center gap-2 text-zinc-500 text-xs font-m=
+edium uppercase tracking-wider mb-2"><svg xmlns=3D"http://www.w3.org/2000/s=
+vg" width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" stroke=
+=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejo=
+in=3D"round" data-lucide=3D"alert-triangle" aria-hidden=3D"true" class=3D"l=
+ucide lucide-alert-triangle text-amber-500" style=3D"width: 14px; height: 1=
+4px;"><path d=3D"m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 =
+2 0 0 0 1.73-3"></path><path d=3D"M12 9v4"></path><path d=3D"M12 17h.01"></=
+path></svg>Kritik Stok</div><p class=3D"text-2xl font-bold">0</p><p class=
+=3D"text-[10px] text-zinc-400 mt-1">=C3=9Cr=C3=BCn 10 adetin alt=C4=B1nda</=
+p></div></aside><main class=3D"flex-1 p-10 overflow-auto"><header class=3D"=
+flex items-center justify-between mb-10"><div><h2 class=3D"text-3xl font-bo=
+ld tracking-tight capitalize">dashboard</h2><p class=3D"text-zinc-500 mt-1"=
+>=C4=B0=C5=9Fletmenizin g=C3=BCncel durumu (Taray=C4=B1c=C4=B1 Haf=C4=B1zas=
+=C4=B1).</p></div></header><div class=3D"space-y-8"><div class=3D"grid grid=
+-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6"><div class=3D"bg-white p-6 rou=
+nded-2xl border border-zinc-100 shadow-sm flex items-center gap-4"><div cla=
+ss=3D"p-3 rounded-xl bg-blue-500"><svg xmlns=3D"http://www.w3.org/2000/svg"=
+ width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"c=
+urrentColor" stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D=
+"round" data-lucide=3D"package" aria-hidden=3D"true" class=3D"lucide lucide=
+-package text-white" style=3D"width: 24px; height: 24px;"><path d=3D"M11 21=
+.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0=
+l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"></path><path d=3D"M12 22V12"></pat=
+h><polyline points=3D"3.29 7 12 12 20.71 7"></polyline><path d=3D"m7.5 4.27=
+ 9 5.15"></path></svg></div><div><p class=3D"text-xs font-medium text-zinc-=
+500 uppercase tracking-wider">Toplam =C3=9Cr=C3=BCn</p><p class=3D"text-2xl=
+ font-bold text-zinc-900 mt-1">0</p></div></div><div class=3D"bg-white p-6 =
+rounded-2xl border border-zinc-100 shadow-sm flex items-center gap-4"><div =
+class=3D"p-3 rounded-xl bg-emerald-500"><svg xmlns=3D"http://www.w3.org/200=
+0/svg" width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" strok=
+e=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" stroke-linej=
+oin=3D"round" data-lucide=3D"trending-up" aria-hidden=3D"true" class=3D"luc=
+ide lucide-trending-up text-white" style=3D"width: 24px; height: 24px;"><pa=
+th d=3D"M16 7h6v6"></path><path d=3D"m22 7-8.5 8.5-5-5L2 17"></path></svg><=
+/div><div><p class=3D"text-xs font-medium text-zinc-500 uppercase tracking-=
+wider">Toplam Sat=C4=B1=C5=9F</p><p class=3D"text-2xl font-bold text-zinc-9=
+00 mt-1">=E2=82=BA0,00</p></div></div><div class=3D"bg-white p-6 rounded-2x=
+l border border-zinc-100 shadow-sm flex items-center gap-4"><div class=3D"p=
+-3 rounded-xl bg-violet-500"><svg xmlns=3D"http://www.w3.org/2000/svg" widt=
+h=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"curren=
+tColor" stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"roun=
+d" data-lucide=3D"package-plus" aria-hidden=3D"true" class=3D"lucide lucide=
+-package-plus text-white" style=3D"width: 24px; height: 24px;"><path d=3D"M=
+12 22V12"></path><path d=3D"M16 17h6"></path><path d=3D"M19 14v6"></path><p=
+ath d=3D"M21 10.535V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 =
+8v8a2 2 0 0 0 1 1.729l7 4a2 2 0 0 0 2 .001l1.675-.955"></path><path d=3D"M3=
+.29 7 12 12l8.71-5"></path><path d=3D"m7.5 4.27 8.997 5.148"></path></svg><=
+/div><div><p class=3D"text-xs font-medium text-zinc-500 uppercase tracking-=
+wider">Stoktaki Adet</p><p class=3D"text-2xl font-bold text-zinc-900 mt-1">=
+0</p></div></div><div class=3D"bg-white p-6 rounded-2xl border border-zinc-=
+100 shadow-sm flex items-center gap-4"><div class=3D"p-3 rounded-xl bg-ambe=
+r-500"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"24" height=3D"24"=
+ viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=
+=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" data-lucide=3D"al=
+ert-triangle" aria-hidden=3D"true" class=3D"lucide lucide-alert-triangle te=
+xt-white" style=3D"width: 24px; height: 24px;"><path d=3D"m21.73 18-8-14a2 =
+2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3"></path><path d=3D"=
+M12 9v4"></path><path d=3D"M12 17h.01"></path></svg></div><div><p class=3D"=
+text-xs font-medium text-zinc-500 uppercase tracking-wider">Kritik Stok</p>=
+<p class=3D"text-2xl font-bold text-zinc-900 mt-1">0</p></div></div></div><=
+div class=3D"grid grid-cols-1 lg:grid-cols-2 gap-8"><div class=3D"bg-white =
+rounded-2xl border border-zinc-100 shadow-sm overflow-hidden"><div class=3D=
+"px-6 py-4 border-b border-zinc-100 flex items-center justify-between"><div=
+><h3 class=3D"font-semibold text-zinc-900">Son Sat=C4=B1=C5=9Flar</h3><p cl=
+ass=3D"text-xs text-zinc-500 mt-0.5">En son yap=C4=B1lan 5 i=C5=9Flem</p></=
+div></div><div class=3D"p-6"><div class=3D"space-y-4"></div></div></div><di=
+v class=3D"bg-white rounded-2xl border border-zinc-100 shadow-sm overflow-h=
+idden"><div class=3D"px-6 py-4 border-b border-zinc-100 flex items-center j=
+ustify-between"><div><h3 class=3D"font-semibold text-zinc-900">Kritik Stok =
+Uyar=C4=B1lar=C4=B1</h3><p class=3D"text-xs text-zinc-500 mt-0.5">Stok sevi=
+yesi 10'un alt=C4=B1nda olanlar</p></div></div><div class=3D"p-6"><div clas=
+s=3D"space-y-4"></div></div></div></div></div></main></div></div>
+
+   =20
+
+
+</body></html>
+------MultipartBoundary--yLmAZkaDbLN8vDD7T1VbxHqCBgnHOOm7I2bdRJhlG6----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--yLmAZkaDbLN8vDD7T1VbxHqCBgnHOOm7I2bdRJhlG6----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-99033c7e-e25f-4fc4-a521-79ec28034153@mhtml.blink
+
+@charset "utf-8";
+
+*, ::before, ::after { --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; =
+--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; -=
+-tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: =
+; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-=
+from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ;=
+ --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-s=
+pacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-widt=
+h: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5=
+); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-sh=
+adow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightne=
+ss: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; =
+--tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --=
+tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale=
+: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opaci=
+ty: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ;=
+ --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; }
+
+::backdrop { --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-trans=
+late-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y=
+: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pin=
+ch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-posit=
+ion: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordi=
+nal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; =
+--tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --=
+tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ri=
+ng-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 =
+#0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw=
+-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-satur=
+ate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdro=
+p-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-b=
+ackdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw=
+-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-cont=
+ain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; }
+
+*, ::after, ::before { box-sizing: border-box; border-width: 0px; border-st=
+yle: solid; border-color: rgb(229, 231, 235); }
+
+::after, ::before { --tw-content: ''; }
+
+:host, html { line-height: 1.5; text-size-adjust: 100%; tab-size: 4; font-f=
+amily: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI=
+ Emoji", "Segoe UI Symbol", "Noto Color Emoji"; font-feature-settings: norm=
+al; font-variation-settings: normal; -webkit-tap-highlight-color: transpare=
+nt; }
+
+body { margin: 0px; line-height: inherit; }
+
+hr { height: 0px; color: inherit; border-top-width: 1px; }
+
+abbr:where([title]) { text-decoration: underline dotted; }
+
+h1, h2, h3, h4, h5, h6 { font-size: inherit; font-weight: inherit; }
+
+a { color: inherit; text-decoration: inherit; }
+
+b, strong { font-weight: bolder; }
+
+code, kbd, pre, samp { font-family: ui-monospace, SFMono-Regular, Menlo, Mo=
+naco, Consolas, "Liberation Mono", "Courier New", monospace; font-feature-s=
+ettings: normal; font-variation-settings: normal; font-size: 1em; }
+
+small { font-size: 80%; }
+
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-ali=
+gn: baseline; }
+
+sub { bottom: -0.25em; }
+
+sup { top: -0.5em; }
+
+table { text-indent: 0px; border-color: inherit; border-collapse: collapse;=
+ }
+
+button, input, optgroup, select, textarea { font-family: inherit; font-feat=
+ure-settings: inherit; font-variation-settings: inherit; font-size: 100%; f=
+ont-weight: inherit; line-height: inherit; letter-spacing: inherit; color: =
+inherit; margin: 0px; padding: 0px; }
+
+button, select { text-transform: none; }
+
+button, input:where([type=3D"button"]), input:where([type=3D"reset"]), inpu=
+t:where([type=3D"submit"]) { appearance: button; background-color: transpar=
+ent; background-image: none; }
+
+progress { vertical-align: baseline; }
+
+::-webkit-inner-spin-button, ::-webkit-outer-spin-button { height: auto; }
+
+[type=3D"search"] { appearance: textfield; outline-offset: -2px; }
+
+::-webkit-search-decoration { appearance: none; }
+
+::-webkit-file-upload-button { appearance: button; font: inherit; }
+
+summary { display: list-item; }
+
+blockquote, dd, dl, figure, h1, h2, h3, h4, h5, h6, hr, p, pre { margin: 0p=
+x; }
+
+fieldset { margin: 0px; padding: 0px; }
+
+legend { padding: 0px; }
+
+menu, ol, ul { list-style: none; margin: 0px; padding: 0px; }
+
+dialog { padding: 0px; }
+
+textarea { resize: vertical; }
+
+input::placeholder, textarea::placeholder { opacity: 1; color: rgb(156, 163=
+, 175); }
+
+[role=3D"button"], button { cursor: pointer; }
+
+:disabled { cursor: default; }
+
+audio, canvas, embed, iframe, img, object, svg, video { display: block; ver=
+tical-align: middle; }
+
+img, video { max-width: 100%; height: auto; }
+
+[hidden]:where(:not([hidden=3D"until-found"])) { display: none; }
+
+.sticky { position: sticky; }
+
+.top-0 { top: 0px; }
+
+.mb-10 { margin-bottom: 2.5rem; }
+
+.mb-2 { margin-bottom: 0.5rem; }
+
+.ml-auto { margin-left: auto; }
+
+.mt-0\.5 { margin-top: 0.125rem; }
+
+.mt-1 { margin-top: 0.25rem; }
+
+.mt-auto { margin-top: auto; }
+
+.flex { display: flex; }
+
+.grid { display: grid; }
+
+.h-10 { height: 2.5rem; }
+
+.h-screen { height: 100vh; }
+
+.min-h-screen { min-height: 100vh; }
+
+.w-10 { width: 2.5rem; }
+
+.w-64 { width: 16rem; }
+
+.w-full { width: 100%; }
+
+.flex-1 { flex: 1 1 0%; }
+
+.grid-cols-1 { grid-template-columns: repeat(1, minmax(0px, 1fr)); }
+
+.flex-col { flex-direction: column; }
+
+.items-center { align-items: center; }
+
+.justify-center { justify-content: center; }
+
+.justify-between { justify-content: space-between; }
+
+.gap-1 { gap: 0.25rem; }
+
+.gap-2 { gap: 0.5rem; }
+
+.gap-3 { gap: 0.75rem; }
+
+.gap-4 { gap: 1rem; }
+
+.gap-6 { gap: 1.5rem; }
+
+.gap-8 { gap: 2rem; }
+
+.space-y-4 > :not([hidden]) ~ :not([hidden]) { --tw-space-y-reverse: 0; mar=
+gin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse))); margin-bottom: c=
+alc(1rem * var(--tw-space-y-reverse)); }
+
+.space-y-8 > :not([hidden]) ~ :not([hidden]) { --tw-space-y-reverse: 0; mar=
+gin-top: calc(2rem * calc(1 - var(--tw-space-y-reverse))); margin-bottom: c=
+alc(2rem * var(--tw-space-y-reverse)); }
+
+.overflow-auto { overflow: auto; }
+
+.overflow-hidden { overflow: hidden; }
+
+.rounded-2xl { border-radius: 1rem; }
+
+.rounded-xl { border-radius: 0.75rem; }
+
+.border { border-width: 1px; }
+
+.border-b { border-bottom-width: 1px; }
+
+.border-r { border-right-width: 1px; }
+
+.border-zinc-100 { --tw-border-opacity: 1; border-color: rgb(244 244 245 / =
+var(--tw-border-opacity, 1)); }
+
+.border-zinc-200 { --tw-border-opacity: 1; border-color: rgb(228 228 231 / =
+var(--tw-border-opacity, 1)); }
+
+.bg-zinc-50 { --tw-bg-opacity: 1; background-color: rgb(250 250 250 / var(-=
+-tw-bg-opacity, 1)); }
+
+.bg-amber-500 { --tw-bg-opacity: 1; background-color: rgb(245 158 11 / var(=
+--tw-bg-opacity, 1)); }
+
+.bg-black { --tw-bg-opacity: 1; background-color: rgb(0 0 0 / var(--tw-bg-o=
+pacity, 1)); }
+
+.bg-blue-500 { --tw-bg-opacity: 1; background-color: rgb(59 130 246 / var(-=
+-tw-bg-opacity, 1)); }
+
+.bg-emerald-500 { --tw-bg-opacity: 1; background-color: rgb(16 185 129 / va=
+r(--tw-bg-opacity, 1)); }
+
+.bg-violet-500 { --tw-bg-opacity: 1; background-color: rgb(139 92 246 / var=
+(--tw-bg-opacity, 1)); }
+
+.bg-white { --tw-bg-opacity: 1; background-color: rgb(255 255 255 / var(--t=
+w-bg-opacity, 1)); }
+
+.p-10 { padding: 2.5rem; }
+
+.p-3 { padding: 0.75rem; }
+
+.p-4 { padding: 1rem; }
+
+.p-6 { padding: 1.5rem; }
+
+.px-2 { padding-left: 0.5rem; padding-right: 0.5rem; }
+
+.px-4 { padding-left: 1rem; padding-right: 1rem; }
+
+.px-6 { padding-left: 1.5rem; padding-right: 1.5rem; }
+
+.py-3 { padding-top: 0.75rem; padding-bottom: 0.75rem; }
+
+.py-4 { padding-top: 1rem; padding-bottom: 1rem; }
+
+.text-2xl { font-size: 1.5rem; line-height: 2rem; }
+
+.text-3xl { font-size: 1.875rem; line-height: 2.25rem; }
+
+.text-\[10px\] { font-size: 10px; }
+
+.text-sm { font-size: 0.875rem; line-height: 1.25rem; }
+
+.text-xl { font-size: 1.25rem; line-height: 1.75rem; }
+
+.text-xs { font-size: 0.75rem; line-height: 1rem; }
+
+.font-bold { font-weight: 700; }
+
+.font-medium { font-weight: 500; }
+
+.font-semibold { font-weight: 600; }
+
+.uppercase { text-transform: uppercase; }
+
+.capitalize { text-transform: capitalize; }
+
+.tracking-tight { letter-spacing: -0.025em; }
+
+.tracking-wider { letter-spacing: 0.05em; }
+
+.text-zinc-900 { --tw-text-opacity: 1; color: rgb(24 24 27 / var(--tw-text-=
+opacity, 1)); }
+
+.text-amber-500 { --tw-text-opacity: 1; color: rgb(245 158 11 / var(--tw-te=
+xt-opacity, 1)); }
+
+.text-white { --tw-text-opacity: 1; color: rgb(255 255 255 / var(--tw-text-=
+opacity, 1)); }
+
+.text-zinc-400 { --tw-text-opacity: 1; color: rgb(161 161 170 / var(--tw-te=
+xt-opacity, 1)); }
+
+.text-zinc-500 { --tw-text-opacity: 1; color: rgb(113 113 122 / var(--tw-te=
+xt-opacity, 1)); }
+
+.antialiased { -webkit-font-smoothing: antialiased; }
+
+.shadow-lg { --tw-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px=
+ rgb(0 0 0 / 0.1); --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-co=
+lor), 0 4px 6px -4px var(--tw-shadow-color); box-shadow: var(--tw-ring-offs=
+et-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow); =
+}
+
+.shadow-sm { --tw-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05); --tw-shadow-colore=
+d: 0 1px 2px 0 var(--tw-shadow-color); box-shadow: var(--tw-ring-offset-sha=
+dow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow); }
+
+.shadow-black\/10 { --tw-shadow-color: rgb(0 0 0 / 0.1); --tw-shadow: var(-=
+-tw-shadow-colored); }
+
+.transition-all { transition-property: all; transition-timing-function: cub=
+ic-bezier(0.4, 0, 0.2, 1); transition-duration: 150ms; }
+
+.duration-200 { transition-duration: 200ms; }
+
+.hover\:bg-zinc-100:hover { --tw-bg-opacity: 1; background-color: rgb(244 2=
+44 245 / var(--tw-bg-opacity, 1)); }
+
+.hover\:text-zinc-900:hover { --tw-text-opacity: 1; color: rgb(24 24 27 / v=
+ar(--tw-text-opacity, 1)); }
+
+@media (min-width: 768px) {
+  .md\:grid-cols-2 { grid-template-columns: repeat(2, minmax(0px, 1fr)); }
+}
+
+@media (min-width: 1024px) {
+  .lg\:grid-cols-2 { grid-template-columns: repeat(2, minmax(0px, 1fr)); }
+  .lg\:grid-cols-4 { grid-template-columns: repeat(4, minmax(0px, 1fr)); }
+}
+------MultipartBoundary--yLmAZkaDbLN8vDD7T1VbxHqCBgnHOOm7I2bdRJhlG6----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-f5d1d67d-75ce-4cae-9c53-0d3fd6938c70@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: Inter, sans-serif; }
+
+.active-pill { }
+------MultipartBoundary--yLmAZkaDbLN8vDD7T1VbxHqCBgnHOOm7I2bdRJhlG6------
